@@ -31,3 +31,4 @@ index=ai_security | where risk_score >= 70
 ## NIST Lifecycle Mapping
 Detect → Analyze → Contain → Review — each dashboard panel maps to one phase.
 # AI-security-splunk-dashboard
+# AI-security-splunk-dashboard
